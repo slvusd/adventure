@@ -6,4 +6,5 @@
 * `nano rooms/`<your-room>
 
 ## Mr. Brown was here!
-## I Hate mr Brown
+## John get the hummus
+## Mr brown is in the files
