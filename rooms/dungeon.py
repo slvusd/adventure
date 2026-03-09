@@ -1,4 +1,4 @@
-# rooms/juvie.py
+# rooms/dungeon.py
 
 def run():
     print("\n === evil dungeon ===")
