@@ -10,7 +10,7 @@ class planet:
         self.part_needed = part_needed
     
     def part_get(self):
-            
+        pass
 def run():
     print("==SPACE==")
     print("zoom zoom you're in space!")
