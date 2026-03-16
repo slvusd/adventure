@@ -1,3 +1,6 @@
+# Adventure main.py © 2026 by Mr. Brown is licensed under CC BY-NC-SA 4.0
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 # main2.py
 import importlib
 import inspect
