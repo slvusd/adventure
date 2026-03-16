@@ -1,5 +1,7 @@
 #rooms/goon.py
 
+#https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 def run():
 	print("\n == goon room ==")
 	print("you are not able to come in")
