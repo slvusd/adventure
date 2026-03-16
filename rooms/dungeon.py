@@ -1,4 +1,5 @@
 # rooms/dungeon.py
+# dungeon.py © 2026 by Razvan Gogosanu is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 def run():
     print("\n === evil dungeon ===")
