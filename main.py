@@ -1,5 +1,8 @@
 from rooms import goon, basement, space, armory, mgr, dungeon, juvie, office, island
 
+inventory = []
+celbrity = ''
+
 def main():
     current_room = "juvie"
     
